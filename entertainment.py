@@ -12,8 +12,7 @@ dunkirk = media.Movie(
     At the end of this heroic mission, 330, 000 French,
     British, Belgian and Dutch soldiers were safely
     evacuated.""",
-    """https://en.wikipedia.org/wiki/
-    Dunkirk_(2017_film)#/media/File:Dunkirk_Film_poster.jpg""",
+    """http://www.impawards.com/2017/posters/dunkirk_ver2.jpg""",
     "https://www.youtube.com/watch?v=F-eMt3SrfFU"
 )
 
@@ -28,8 +27,7 @@ dark_knight_rises = media.Movie(
     terrorist named Bane(Tom Hardy) force
     Batman out of exile and into a battle
     he may not be able to win.""",
-    """https://images-na.ssl-images-amazon.com/
-    images/I/711IkMGkWtL._SY550_.jpg""",
+    """http://www.impawards.com/2012/posters/dark_knight_rises_ver3.jpg""",
     "https://www.youtube.com/watch?v=g8evyE9TuYk"
 )
 
@@ -39,8 +37,7 @@ rush = media.Movie(
     Niki Lauda(Daniel Brühl) share an intense rivalry in
     Formula 1 racing. Meanwhile, the women(Olivia Wilde)
     as both drivers risk death with every lap.""",
-    """https://d32qys9a6wm9no.cloudfront.net/images/movies/
-    poster/08/08aee6276db142f4b8ac98fb8ee0ed1b_500x735.jpg?t=1488656061""",
+    """http://www.impawards.com/2013/posters/rush.jpg""",
     "https://www.youtube.com/watch?v=9ZJqxgR-5Xc"
 )
 
@@ -53,8 +50,7 @@ fight_club = media.Movie(
     Their perfect partnership frays when Marla
     a fellow support group crasher, attracts
     Tyler's attention.""",
-    """https://images-na.ssl-images-amazon.com/
-    images/I/51OsUdPrjoL.jpg""",
+    """http://www.impawards.com/1999/posters/fight_club_ver2.jpg""",
     "https://www.youtube.com/watch?v=_XgQA9Ab0Gw"
 )
 
@@ -68,8 +64,7 @@ captain_phillips = media.Movie(
     Phillips must use his wits to make
     sure everyone survives and returns
     home safely.""",
-    """http://cdn.collider.com/wp-content/
-    uploads/captain-phillips-poster.jpg""",
+    """http://www.impawards.com/2013/posters/captain_phillips_ver3.jpg""",
     "https://www.youtube.com/watch?v=u7JptS2VZNg"
 )
 
